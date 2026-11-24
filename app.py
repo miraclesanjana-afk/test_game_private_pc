@@ -13,11 +13,14 @@ from game import ScrambleGame
 from oxford_client import WordBank
 from stats import Stats
 
-st.set_page_config(page_title="Word Scramble", page_icon="🔤", layout="centered")
+st.set_page_config(page_title="Word Scramble", page_icon="D", layout="centered")
 
 st.markdown(
     """
     <style>
+    .stApp {
+        background: linear-gradient(135deg, #0f172a 0%, #1e3a8a 100%);
+    }
     .block {
         background: rgba(30, 41, 59, 0.85);
         border-radius: 20px;
@@ -40,9 +43,6 @@ st.markdown(
         text-shadow: 0 0 25px #8b5cf6;
         margin: 24px auto;
         width: fit-content;
-    }
-    .stApp {
-        background: linear-gradient(135deg, #0f172a 0%, #1e3a8a 100%);
     }
     </style>
     """,
@@ -86,7 +86,7 @@ def main() -> None:
     with st.sidebar:
         st.title("Scramble Game")
         word_bank = load_word_bank()
-        st.caption(f"Word bank: {len(word_bank)} words — source: {word_bank.source}")
+        st.caption(f"Word bank: {len(word_bank)} words - source: {word_bank.source}")
         stats = load_stats()
         st.metric("Best score", stats.best_score)
         st.metric("Games played", stats.total_played)
@@ -113,7 +113,7 @@ def main() -> None:
             reset_game(game)
     else:
         st.markdown(f'<div class="letters">{game.scrambled}</div>', unsafe_allow_html=True)
-        st.caption(f"{len(game.scrambled)} letters — Round {game.round_no}/{game.rounds}")
+        st.caption(f"{len(game.scrambled)} letters - Round {game.round_no}/{game.rounds}")
 
         if st.button("Show definition hint", key="hint-btn"):
             st.session_state["hint"] = game.get_hint()
