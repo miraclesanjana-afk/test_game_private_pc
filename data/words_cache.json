@@ -1,0 +1,485 @@
+{
+  "source": "gemini",
+  "words": [
+    {
+      "word": "apple",
+      "definitions": [
+        "The round fruit of a tree of the rose family, with red, green, or yellow skin and crisp flesh."
+      ],
+      "part_of_speech": "noun",
+      "length": 5
+    },
+    {
+      "word": "book",
+      "definitions": [
+        "A written or printed work consisting of pages glued together along one side and bound in covers."
+      ],
+      "part_of_speech": "noun",
+      "length": 4
+    },
+    {
+      "word": "cat",
+      "definitions": [
+        "A small domesticated carnivorous mammal with soft fur, a short snout, and retractile claws."
+      ],
+      "part_of_speech": "noun",
+      "length": 3
+    },
+    {
+      "word": "dog",
+      "definitions": [
+        "A domesticated carnivorous mammal that typically has a long snout, an acute sense of smell, and a barking, howling, or whining voice."
+      ],
+      "part_of_speech": "noun",
+      "length": 3
+    },
+    {
+      "word": "elephant",
+      "definitions": [
+        "A very large plant-eating mammal with a prehensile trunk, long curved ivory tusks, and large ears, native to Africa and southern Asia."
+      ],
+      "part_of_speech": "noun",
+      "length": 8
+    },
+    {
+      "word": "flower",
+      "definitions": [
+        "The seed-bearing part of a plant, consisting of reproductive organs that are typically surrounded by a brightly coloured corolla and a green calyx."
+      ],
+      "part_of_speech": "noun",
+      "length": 6
+    },
+    {
+      "word": "guitar",
+      "definitions": [
+        "A stringed musical instrument with a fretted fingerboard, typically incurved sides, and six strings, played strumming or plucking."
+      ],
+      "part_of_speech": "noun",
+      "length": 6
+    },
+    {
+      "word": "house",
+      "definitions": [
+        "A building for human habitation, especially one that consists of a ground floor and one or more upper storeys."
+      ],
+      "part_of_speech": "noun",
+      "length": 5
+    },
+    {
+      "word": "island",
+      "definitions": [
+        "A piece of land surrounded by water."
+      ],
+      "part_of_speech": "noun",
+      "length": 6
+    },
+    {
+      "word": "jacket",
+      "definitions": [
+        "An outer garment extending either to the waist or the hips, typically having sleeves and fastening from the front."
+      ],
+      "part_of_speech": "noun",
+      "length": 6
+    },
+    {
+      "word": "kite",
+      "definitions": [
+        "A toy consisting of a light frame with thin material stretched over it, flown in the wind at the end of a long string."
+      ],
+      "part_of_speech": "noun",
+      "length": 4
+    },
+    {
+      "word": "lemon",
+      "definitions": [
+        "A pale yellow oval citrus fruit with thick skin and fragrant, acidic juice."
+      ],
+      "part_of_speech": "noun",
+      "length": 5
+    },
+    {
+      "word": "mountain",
+      "definitions": [
+        "A large natural elevation of the earth's surface rising abruptly from the surrounding level; a large steep hill."
+      ],
+      "part_of_speech": "noun",
+      "length": 8
+    },
+    {
+      "word": "notebook",
+      "definitions": [
+        "A book of blank or ruled pages for writing notes in."
+      ],
+      "part_of_speech": "noun",
+      "length": 8
+    },
+    {
+      "word": "ocean",
+      "definitions": [
+        "A very large expanse of sea, in particular each of the main areas into which the sea is divided geographically."
+      ],
+      "part_of_speech": "noun",
+      "length": 5
+    },
+    {
+      "word": "pencil",
+      "definitions": [
+        "An instrument for writing or drawing, consisting of a thin cylinder of graphite encased in wood or similar material."
+      ],
+      "part_of_speech": "noun",
+      "length": 6
+    },
+    {
+      "word": "queen",
+      "definitions": [
+        "The female ruler of an independent state, especially one who inherits the position by right of birth."
+      ],
+      "part_of_speech": "noun",
+      "length": 5
+    },
+    {
+      "word": "river",
+      "definitions": [
+        "A large natural stream of water flowing in a channel to the sea, a lake, or another such stream."
+      ],
+      "part_of_speech": "noun",
+      "length": 5
+    },
+    {
+      "word": "sun",
+      "definitions": [
+        "The star around which the earth orbits."
+      ],
+      "part_of_speech": "noun",
+      "length": 3
+    },
+    {
+      "word": "tree",
+      "definitions": [
+        "A woody perennial plant, typically having a single stem or trunk growing to a considerable height and bearing lateral branches at some distance from the ground."
+      ],
+      "part_of_speech": "noun",
+      "length": 4
+    },
+    {
+      "word": "umbrella",
+      "definitions": [
+        "A device consisting of a circular canopy of cloth on a folding metal support mounted on a metal pole, used as protection against rain or sun."
+      ],
+      "part_of_speech": "noun",
+      "length": 8
+    },
+    {
+      "word": "vase",
+      "definitions": [
+        "A decorative container, typically made of glass or china and used as an ornament or for displaying cut flowers."
+      ],
+      "part_of_speech": "noun",
+      "length": 4
+    },
+    {
+      "word": "window",
+      "definitions": [
+        "An opening in the wall or roof of a building or vehicle that is fitted with glass or other transparent material in a frame to admit light or air and allow people to see out."
+      ],
+      "part_of_speech": "noun",
+      "length": 6
+    },
+    {
+      "word": "xylophone",
+      "definitions": [
+        "A musical instrument played by striking a row of wooden bars of graduated length with small mallets."
+      ],
+      "part_of_speech": "noun",
+      "length": 9
+    },
+    {
+      "word": "yacht",
+      "definitions": [
+        "A medium-sized sailing boat equipped for cruising or racing."
+      ],
+      "part_of_speech": "noun",
+      "length": 5
+    },
+    {
+      "word": "zebra",
+      "definitions": [
+        "An African wild horse with black-and-white stripes and an erect mane."
+      ],
+      "part_of_speech": "noun",
+      "length": 5
+    },
+    {
+      "word": "active",
+      "definitions": [
+        "Doing things; requiring physical energy or movement."
+      ],
+      "part_of_speech": "adjective",
+      "length": 6
+    },
+    {
+      "word": "breeze",
+      "definitions": [
+        "A gentle wind."
+      ],
+      "part_of_speech": "noun",
+      "length": 6
+    },
+    {
+      "word": "courage",
+      "definitions": [
+        "The ability to do something that frightens one; bravery."
+      ],
+      "part_of_speech": "noun",
+      "length": 7
+    },
+    {
+      "word": "daring",
+      "definitions": [
+        "Adventurous or audacious."
+      ],
+      "part_of_speech": "adjective",
+      "length": 6
+    },
+    {
+      "word": "eager",
+      "definitions": [
+        "Strongly wanting to do or have something."
+      ],
+      "part_of_speech": "adjective",
+      "length": 5
+    },
+    {
+      "word": "fabric",
+      "definitions": [
+        "Cloth or other material produced by weaving or knitting textile fibres."
+      ],
+      "part_of_speech": "noun",
+      "length": 6
+    },
+    {
+      "word": "galaxy",
+      "definitions": [
+        "A system of millions or billions of stars, together with gas and dust, held together by gravitational attraction."
+      ],
+      "part_of_speech": "noun",
+      "length": 6
+    },
+    {
+      "word": "honest",
+      "definitions": [
+        "Free of deceit and untruthfulness; sincere."
+      ],
+      "part_of_speech": "adjective",
+      "length": 6
+    },
+    {
+      "word": "ignite",
+      "definitions": [
+        "Catch fire or cause to catch fire."
+      ],
+      "part_of_speech": "verb",
+      "length": 6
+    },
+    {
+      "word": "jungle",
+      "definitions": [
+        "An area of land overgrown with dense forest and tangled vegetation, typically in the tropics."
+      ],
+      "part_of_speech": "noun",
+      "length": 6
+    },
+    {
+      "word": "knight",
+      "definitions": [
+        "A man who served his sovereign or lord as a mounted soldier in armour."
+      ],
+      "part_of_speech": "noun",
+      "length": 6
+    },
+    {
+      "word": "lantern",
+      "definitions": [
+        "A lamp with a transparent case protecting the flame or electric bulb, and typically having a handle by which it can be carried or hung."
+      ],
+      "part_of_speech": "noun",
+      "length": 7
+    },
+    {
+      "word": "magnet",
+      "definitions": [
+        "A piece of iron or other material that has its component atoms so ordered that the material exhibits properties of magnetism."
+      ],
+      "part_of_speech": "noun",
+      "length": 6
+    },
+    {
+      "word": "nectar",
+      "definitions": [
+        "A sugary fluid secreted by plants, especially within flowers to encourage pollination by insects and other animals."
+      ],
+      "part_of_speech": "noun",
+      "length": 6
+    },
+    {
+      "word": "orbit",
+      "definitions": [
+        "The curved path of a celestial object or spacecraft round a star, planet, or moon."
+      ],
+      "part_of_speech": "noun",
+      "length": 5
+    },
+    {
+      "word": "planet",
+      "definitions": [
+        "A celestial body moving in an elliptical orbit round a star."
+      ],
+      "part_of_speech": "noun",
+      "length": 6
+    },
+    {
+      "word": "quartz",
+      "definitions": [
+        "A hard mineral consisting of silica, found widely as sand and in rock."
+      ],
+      "part_of_speech": "noun",
+      "length": 6
+    },
+    {
+      "word": "rescue",
+      "definitions": [
+        "Save someone from a dangerous or difficult situation."
+      ],
+      "part_of_speech": "verb",
+      "length": 6
+    },
+    {
+      "word": "shadow",
+      "definitions": [
+        "A dark area or shape produced by a body coming between rays of light and a surface."
+      ],
+      "part_of_speech": "noun",
+      "length": 6
+    },
+    {
+      "word": "temple",
+      "definitions": [
+        "A building devoted to the worship, or regarded as the dwelling place, of a god or gods."
+      ],
+      "part_of_speech": "noun",
+      "length": 6
+    },
+    {
+      "word": "unique",
+      "definitions": [
+        "Being the only one of its kind; unlike anything else."
+      ],
+      "part_of_speech": "adjective",
+      "length": 6
+    },
+    {
+      "word": "velvet",
+      "definitions": [
+        "A closely woven silk, cotton, or nylon fabric with a short dense pile."
+      ],
+      "part_of_speech": "noun",
+      "length": 6
+    },
+    {
+      "word": "whisper",
+      "definitions": [
+        "Speak very softly using one's breath rather than one's vocal cords, for the sake of privacy."
+      ],
+      "part_of_speech": "verb",
+      "length": 7
+    },
+    {
+      "word": "xenon",
+      "definitions": [
+        "The chemical element of atomic number 54, a heavy odourless noble gas."
+      ],
+      "part_of_speech": "noun",
+      "length": 5
+    },
+    {
+      "word": "yearning",
+      "definitions": [
+        "A feeling of intense longing for something."
+      ],
+      "part_of_speech": "noun",
+      "length": 8
+    },
+    {
+      "word": "zenith",
+      "definitions": [
+        "The time at which something is most powerful or successful."
+      ],
+      "part_of_speech": "noun",
+      "length": 6
+    },
+    {
+      "word": "bridge",
+      "definitions": [
+        "A structure carrying a road, path, etc. across an obstacle."
+      ],
+      "part_of_speech": "noun",
+      "length": 6
+    },
+    {
+      "word": "castle",
+      "definitions": [
+        "A large building or group of fortifications typically of the medieval period."
+      ],
+      "part_of_speech": "noun",
+      "length": 6
+    },
+    {
+      "word": "diamond",
+      "definitions": [
+        "A precious stone consisting of a clear and colourless crystalline form of pure carbon."
+      ],
+      "part_of_speech": "noun",
+      "length": 7
+    },
+    {
+      "word": "engine",
+      "definitions": [
+        "A machine with moving parts that converts power into motion."
+      ],
+      "part_of_speech": "noun",
+      "length": 6
+    },
+    {
+      "word": "forest",
+      "definitions": [
+        "A large area covered chiefly with trees and undergrowth."
+      ],
+      "part_of_speech": "noun",
+      "length": 6
+    },
+    {
+      "word": "garden",
+      "definitions": [
+        "A piece of ground used for growing flowers, fruit, or vegetables."
+      ],
+      "part_of_speech": "noun",
+      "length": 6
+    },
+    {
+      "word": "harbour",
+      "definitions": [
+        "A place on the coast where ships may moor in shelter."
+      ],
+      "part_of_speech": "noun",
+      "length": 7
+    },
+    {
+      "word": "inhibit",
+      "definitions": [
+        "Hinder, restrain, or prevent an action or process."
+      ],
+      "part_of_speech": "verb",
+      "length": 7
+    }
+  ]
+}
